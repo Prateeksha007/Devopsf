@@ -1,1 +1,2 @@
 # Devopsf
+Clone the repo
